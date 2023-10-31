@@ -2,6 +2,8 @@ package serviceLocatorPattern;
 
 import java.util.*;
 
+// Cache class for storage
+
 public class Cache {
 
 	// Declare List for sorting algorithms
@@ -42,3 +44,4 @@ public class Cache {
 	
 
 }
+

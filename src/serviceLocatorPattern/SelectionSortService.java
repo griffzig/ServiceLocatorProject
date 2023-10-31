@@ -1,5 +1,7 @@
 package serviceLocatorPattern;
 
+// Selection sort implementing Locator
+
 public class SelectionSortService implements SortingAlgorithmService {
 
 	public void sort(int[] array) {

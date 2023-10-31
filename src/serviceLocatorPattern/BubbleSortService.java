@@ -1,5 +1,6 @@
 package serviceLocatorPattern;
 
+// Bubble Sort implementing Locator
 public class BubbleSortService implements SortingAlgorithmService {
 	
 	@Override
